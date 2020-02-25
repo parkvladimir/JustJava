@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OnClickButtons</string>
+    <string name="btn_text">Привет</string>
+    <string name="hello_world">Hello World</string>
+    <string name="btn_text2">Сказать привет</string>
+
+</resources>
